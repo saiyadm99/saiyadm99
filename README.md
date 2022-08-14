@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saiyadm99
+- 👋 Hi, I’m Saiyad Mohammad ( Front-End Developer)
 - 👀 I’m interested in coading.
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on 

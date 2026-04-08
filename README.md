@@ -1,76 +1,148 @@
-# Hi, I'm Saiyad Mohammad 👋
+<!-- ===== Intro Animation ===== -->
+<div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100" />
+</div>
 
-💻 Full Stack Developer (Backend-Focused)  
-📍 Dhaka, Bangladesh  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=800&color=EB5775&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saiyad+Mohammad;Full+Stack+Developer+(Backend-Focused);Laravel+%7C+Node.js+%7C+Next.js;700%2B+Problems+Solved+%7C+ICPC+Participant" />
+</div>
 
-I build clean, scalable web applications with strong backend architecture and solid problem-solving foundations.
+---
+
+<!-- ===== Social Links ===== -->
+<div align="center">
+
+<a href="https://github.com/saiyadm99">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/saiyadm99">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:syedmohammod52@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://saiyadm99.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=saiyadm99&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔹 Backend-leaning Full Stack Developer  
-- 🔹 Experienced with Laravel & Node.js ecosystems  
-- 🔹 Strong database design and REST API development skills  
-- 🔹 700+ algorithmic problems solved across online judges  
-- 🔹 3× ICPC Regional Participant  
+- 💻 Backend-focused Full Stack Developer  
+- ⚙️ Working as **Laravel Developer at Triad Solution**  
+- 🧠 Solved **700+ problems** (Codeforces + LeetCode)  
+- 🏆 **ICPC Regional Participant (2022–2024)**  
 
-I enjoy designing structured systems, optimizing queries, and building maintainable applications.
+I enjoy designing scalable backend systems, building clean APIs, and solving complex problems.
+
+---
+
+## 🎯 Currently Working On
+
+- 🔹 Improving **system design & backend architecture**
+- 🔹 Building scalable apps with **Next.js + Laravel**
+- 🔹 Practicing **DSA & competitive programming**
+- 🔹 Learning **performance optimization & database scaling**
+
+---
+
+## 🧩 Backend / System Design Focus
+
+- REST API design & clean architecture (MVC)
+- Authentication & authorization (JWT, RBAC)
+- Relational database design (schema, indexing, optimization)
+- Writing maintainable, production-level code
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💡 Languages
-JavaScript • PHP • C++ • SQL  
+<p>
+<img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/PHP-000?style=flat-square&logo=php" />
+<img src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus" />
+<img src="https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql" />
+</p>
 
-### ⚙ Backend
-Laravel • Node.js • Express.js • REST APIs • JWT Authentication  
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel" />
+<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
+</p>
 
 ### 🎨 Frontend
-React.js • Next.js (App Router) • Redux Toolkit • Tailwind CSS  
+<p>
+<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux" />
+<img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss" />
+</p>
 
 ### 🗄 Database
-MySQL • PostgreSQL • MongoDB  
+<p>
+<img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" />
+<img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb" />
+</p>
 
-### 🔧 Tools
-Git • Postman • Axios • Linux  
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=saiyadm99&theme=tokyonight&hide_border=true" height="190" />
+</p>
+
+---
+
+## 🧠 Competitive Programming
+
+<p>
+<img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
+</p>
+
+- ✅ Solved **700+ problems**
+- 🏆 ICPC Regional Participant
+- ⚡ Strong in DSA & problem solving
+
+🔗 Codeforces: https://codeforces.com/profile/saiyadm99  
+🔗 LeetCode: https://leetcode.com/saiyadm99  
+🔗 ICPC: https://icpc.global/ICPCID/ENXE2S0DK1N8  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Learning Management System (Next.js)
-Role-based Admin & Student platform with middleware authentication and API integration.  
-**Stack:** Next.js, Redux Toolkit, Tailwind, Axios  
+### 🧩 Learning Management System (Next.js)
+
+Role-based LMS with admin & student dashboard.
 
 🔗 Live: https://lms-frontend-one-silk.vercel.app  
 🔗 Code: https://github.com/saiyadm99/lms-frontend  
 
 ---
 
-### 🔹 Bio-Chemical Product & Content Management System (Laravel)
-Backend-driven system with modular architecture, filtering, pagination, and admin workflow management.  
-**Stack:** Laravel, MySQL, Blade  
+### 🧪 Bio-Chemical Product CMS (Laravel)
+
+Dynamic CMS with admin panel, filtering & pagination.
 
 🔗 Live: https://biochem.triadsolution.com  
 🔗 Code: https://github.com/saiyadm99/biochem  
 
 ---
 
-## 🧠 Problem Solving
-
-- Solved **700+ problems** on Codeforces & LeetCode  
-- Participated in **ICPC Regional Contests (2022–2024)**  
-- Strong grasp of data structures, algorithms & optimization  
-
-🔗 Codeforces: https://codeforces.com/profile/saiyadm99  
-🔗 LeetCode: https://leetcode.com/saiyadm99  
-🔗 ICPC Profile: https://icpc.global/ICPCID/ENXE2S0DK1N8  
-
----
-
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 - GitHub: https://github.com/saiyadm99  
 - LinkedIn: https://www.linkedin.com/in/saiyadm99  
@@ -79,4 +151,6 @@ Backend-driven system with modular architecture, filtering, pagination, and admi
 
 ---
 
-⭐ I’m always open to backend-focused roles, full stack opportunities, and interesting technical discussions.
+<p align="center">
+⭐ Open to Backend / Full Stack opportunities
+</p>

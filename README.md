@@ -125,35 +125,6 @@ I enjoy designing scalable backend systems, building clean APIs, and solving com
 
 ---
 
-## 📌 Featured Projects
-
-### 🧩 Learning Management System (Next.js)
-
-Role-based LMS with admin & student dashboard.
-
-🔗 Live: https://lms-frontend-one-silk.vercel.app  
-🔗 Code: https://github.com/saiyadm99/lms-frontend  
-
----
-
-### 🧪 Bio-Chemical Product CMS (Laravel)
-
-Dynamic CMS with admin panel, filtering & pagination.
-
-🔗 Live: https://biochem.triadsolution.com  
-🔗 Code: https://github.com/saiyadm99/biochem  
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/saiyadm99  
-- LinkedIn: https://www.linkedin.com/in/saiyadm99  
-- Portfolio: https://saiyadm99.github.io/portfolio/  
-- Email: syedmohammod52@gmail.com  
-
----
-
 <p align="center">
 ⭐ Open to Backend / Full Stack opportunities
 </p>

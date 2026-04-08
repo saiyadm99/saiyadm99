@@ -106,10 +106,13 @@ I enjoy designing scalable backend systems, building clean APIs, and solving com
 ---
 
 ## 🧠 Competitive Programming
-
 <p>
-<img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces" />
-<img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
+  <a href="https://codeforces.com/profile/saiyadm99" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://leetcode.com/saiyadm99" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 - ✅ Solved **700+ problems**

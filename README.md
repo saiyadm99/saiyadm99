@@ -63,36 +63,50 @@ I enjoy designing scalable backend systems, building clean APIs, and solving com
 
 ---
 
-## 🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 
-### 💡 Languages
+<h3>👨‍💻 Programming Languages</h3>
 <p>
-<img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/PHP-000?style=flat-square&logo=php" />
-<img src="https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus" />
-<img src="https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
 </p>
 
-### ⚙️ Backend
+<h3>⚙️ Backend Development</h3>
 <p>
-<img src="https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel" />
-<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js" />
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-000000.svg?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white">
 </p>
 
-### 🎨 Frontend
+<h3>🎨 Frontend Development</h3>
 <p>
-<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux" />
-<img src="https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-264de4.svg?style=flat-square&logo=css3&logoColor=white">
 </p>
 
-### 🗄 Database
+<h3>🗄️ Databases</h3>
 <p>
-<img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" />
-<img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" />
-<img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+
+<h3>🧰 Tools & Environment</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat-square&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black">
 </p>
 
 ---
